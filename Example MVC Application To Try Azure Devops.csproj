@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Example_MVC_Application_To_Try_Azure_Devops</RootNamespace>
+  </PropertyGroup>
+
+</Project>
